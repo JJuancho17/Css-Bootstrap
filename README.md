@@ -12,6 +12,20 @@
 
 *Este proyecto consiste en la realización de seis maquetas por medio de Bootstrap*
 
+**En que consiste cada una de las seis maquetas, con su respectiva imagen**
+
+**Tabla 1:** *Consiste en tres columnas que cambian de tamaño depende el dispositivo en el que se encuentre:*
+
+*Columna 1: En todos los tamaños queda con el tamaño de 12*
+
+*Columna 2 y 3: En extra pequeño queda con el tamaño de 12, en mediano y largo queda con el tamaño de 6*
+
+**Tabla 1.1** *Consiste en tres columnas que cambian de tamaño depende el dispositivo en el que se encuentre:*
+
+*Todas las columnas *
+
+
+
 
 
 
